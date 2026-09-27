@@ -1,0 +1,7 @@
+# macos system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
